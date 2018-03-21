@@ -1,0 +1,20 @@
+{
+  "telegram": {
+    "bot_token": "574016442:AAFlBu2ZbqwJsZIrEbp0lOWOfKOxnrBq7_Y"
+  },
+  "waves": {
+    "private_key": ""
+  },
+  "mongo": {
+    "database": "waves_meetup_bot",
+    "user": null,
+    "password": null,
+    "port": 27017
+  },
+  "watchers": {
+    "DEX": {},
+    "questions": {},
+    "waves": {},
+    "twitter": {}
+  }
+}
